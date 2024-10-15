@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QuickSell_FrontEnd/static/css/main.d8683f48.css",
+    "main.js": "/QuickSell_FrontEnd/static/js/main.b14ad9ab.js",
+    "index.html": "/QuickSell_FrontEnd/index.html",
+    "main.d8683f48.css.map": "/QuickSell_FrontEnd/static/css/main.d8683f48.css.map",
+    "main.b14ad9ab.js.map": "/QuickSell_FrontEnd/static/js/main.b14ad9ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8683f48.css",
+    "static/js/main.b14ad9ab.js"
+  ]
+}
